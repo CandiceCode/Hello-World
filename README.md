@@ -1,2 +1,0 @@
-# animated-waddle
-Lending Club
